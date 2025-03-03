@@ -1,4 +1,4 @@
-module github.com/architect-basis
+module github.com/go-architect-basis
 
 go 1.23.5
 
